@@ -12,7 +12,84 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs92" />
+     id="defs92">
+    <marker
+       style="overflow:visible"
+       id="Arrow4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow4"
+       markerWidth="5"
+       markerHeight="6"
+       viewBox="0 0 5 6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1337"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="path1335"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="arrow3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <rect
+       x="-339.83051"
+       y="89.830508"
+       width="105.9322"
+       height="46.581305"
+       id="rect372" />
+    <rect
+       x="-333.05085"
+       y="103.17567"
+       width="65.254237"
+       height="29.007875"
+       id="rect366" />
+    <rect
+       x="-334.74576"
+       y="103.17567"
+       width="80.306114"
+       height="29.007875"
+       id="rect360" />
+  </defs>
   <sodipodi:namedview
      id="namedview90"
      pagecolor="#505050"
@@ -24,8 +101,8 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="1.18"
-     inkscape:cx="119.0678"
-     inkscape:cy="94.915254"
+     inkscape:cx="-68.644068"
+     inkscape:cy="116.94915"
      inkscape:window-width="1463"
      inkscape:window-height="456"
      inkscape:window-x="225"
@@ -129,4 +206,32 @@
      stroke="#ff0000"
      stroke-width="5.65466"
      id="line86" />
+  <text
+     xml:space="preserve"
+     style="font-size:12px;fill:#000000;stroke-width:1"
+     x="-138.32034"
+     y="98.893356"
+     id="text306"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan304"
+       style="stroke-width:1"
+       x="-138.32034"
+       y="98.893356">Version 001</tspan></text>
+  <text
+     xml:space="preserve"
+     transform="scale(1.0000013)"
+     id="text358"
+     style="fill:#000000;white-space:pre;shape-inside:url(#rect360)" />
+  <text
+     xml:space="preserve"
+     transform="scale(1.0000013)"
+     id="text364"
+     style="fill:#000000;white-space:pre;shape-inside:url(#rect366)" />
+  <path
+     style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.55836;stroke-dasharray:none;stroke-opacity:0.99;marker-start:url(#Arrow3);marker-mid:url(#marker1337);marker-end:url(#Arrow4)"
+     d="M 117.89624,80.740411 V 115.4861"
+     id="path439"
+     inkscape:transform-center-x="-0.84746056"
+     inkscape:transform-center-y="4.9644452" />
 </svg>
