@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" version="1.1">
+    <line x1="0mm" y1="0mm" x2="20mm" y2="0mm" stroke="red" stroke-width="6" />
+    <line x1="20mm" y1="0mm" x2="20mm" y2="4mm" stroke="red" stroke-width="6" />
+    <line x1="20mm" y1="4mm" x2="30.5mm" y2="4mm" stroke="red" stroke-width="6" />
+    <line x1="30.5mm" y1="4mm" x2="30.5mm" y2="12mm" stroke="red" stroke-width="6" />
+    <line x1="30.5mm" y1="12mm" x2="20mm" y2="12mm" stroke="red" stroke-width="6" />
+    <line x1="20mm" y1="12mm" x2="20mm" y2="35.35mm" stroke="red" stroke-width="6" />
+    <line x1="20mm" y1="35.35mm" x2="30.5mm" y2="35.35mm" stroke="red" stroke-width="6" />
+    <line x1="30.5mm" y1="35.35mm" x2="30.5mm" y2="43.35mm" stroke="red" stroke-width="6" />
+    <line x1="30.5mm" y1="43.35mm" x2="20mm" y2="43.35mm" stroke="red" stroke-width="6" />
+    <line x1="20mm" y1="43.35mm" x2="20mm" y2="47.35mm" stroke="red" stroke-width="6" />
+    <line x1="20mm" y1="47.35mm" x2="0mm" y2="47.35mm" stroke="red" stroke-width="6" />
+    <line x1="0mm" y1="0mm" x2="0mm" y2="47.35mm" stroke="red" stroke-width="6" />
+</svg>
+
+
