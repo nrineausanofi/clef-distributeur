@@ -13,64 +13,6 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs92">
-    <marker
-       style="overflow:visible"
-       id="Arrow4"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Arrow4"
-       markerWidth="5"
-       markerHeight="6"
-       viewBox="0 0 5 6"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
-         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
-         id="path1741" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker1337"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Arrow3"
-       markerWidth="4.2071066"
-       markerHeight="7"
-       viewBox="0 0 4.2071068 7"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         id="path1335"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow3"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Arrow3"
-       markerWidth="4.2071066"
-       markerHeight="7"
-       viewBox="0 0 4.2071068 7"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         id="arrow3"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc" />
-    </marker>
     <rect
        x="-339.83051"
        y="89.830508"
@@ -101,22 +43,22 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="1.18"
-     inkscape:cx="-116.94915"
-     inkscape:cy="108.47458"
-     inkscape:window-width="1463"
-     inkscape:window-height="456"
-     inkscape:window-x="225"
-     inkscape:window-y="213"
+     inkscape:cx="279.23729"
+     inkscape:cy="100"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg88"
      inkscape:document-units="mm" />
   <line
-     x1="63.559322"
-     y1="28.813559"
-     x2="139.14987"
-     y2="28.813559"
+     x1="11.016883"
+     y1="26.271183"
+     x2="142.5397"
+     y2="26.271183"
      stroke="#ff0000"
-     stroke-width="6"
+     stroke-width="7.9144"
      id="line64" />
   <line
      x1="139.14987"
@@ -192,16 +134,16 @@
      id="line82" />
   <line
      x1="143.14987"
-     y1="184.76631"
-     x2="67.559319"
-     y2="184.76631"
+     y1="184.34258"
+     x2="10.779585"
+     y2="184.34258"
      stroke="#ff0000"
-     stroke-width="6"
+     stroke-width="7.93986"
      id="line84" />
   <line
-     x1="63.559322"
+     x1="12.7118"
      y1="28.813559"
-     x2="63.559322"
+     x2="12.7118"
      y2="187.76631"
      stroke="#ff0000"
      stroke-width="5.65466"
@@ -209,15 +151,15 @@
   <text
      xml:space="preserve"
      style="font-size:12px;fill:#0000ff;stroke-width:1"
-     x="-165.23711"
+     x="-160.99982"
      y="99.323601"
      id="text306"
      transform="rotate(-90)"><tspan
        sodipodi:role="line"
        id="tspan304"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1;fill:#0000ff"
-       x="-165.23711"
-       y="99.323601">Version 001</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke-width:1"
+       x="-160.99982"
+       y="99.323601">SSU ROCK</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(1.0000013)"
@@ -229,9 +171,20 @@
      id="text364"
      style="white-space:pre;shape-inside:url(#rect366);display:inline;fill:#000000" />
   <path
-     style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.55836;stroke-dasharray:none;stroke-opacity:0.99;marker-start:url(#Arrow3);marker-mid:url(#marker1337);marker-end:url(#Arrow4)"
-     d="M 117.89624,80.740411 V 115.4861"
+     style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:2.71011;stroke-dasharray:none;stroke-opacity:0.99"
+     d="M 117.89624,54.469191 V 159.55395"
      id="path439"
      inkscape:transform-center-x="-0.84746056"
-     inkscape:transform-center-y="4.9644452" />
+     inkscape:transform-center-y="15.014453" />
+  <path
+     style="fill:#000000;stroke-width:1"
+     d="M 66.101781,184.746 62.711946,89.830625"
+     id="path262" />
+  <ellipse
+     style="fill:#000000;stroke-width:3.2692955;stroke:#ff0000;stroke-opacity:1;fill-opacity:0;opacity:1;stroke-dasharray:none"
+     id="path1208"
+     cx="48.305149"
+     cy="106.7798"
+     rx="24.576303"
+     ry="26.271221" />
 </svg>
